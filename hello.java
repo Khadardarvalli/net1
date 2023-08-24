@@ -1,6 +1,6 @@
 class Hello
 {
-psvm (sgtring args[])
+psvm (string args[])
 {
 System.out.println ("hi");
 }
